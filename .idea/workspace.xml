@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebbac887-2ccb-46a9-a4b7-ea1f64fcb950" name="Default" comment="merging my old test classes">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learning.iml" afterDir="false" />
-    </list>
     <list id="4ac419d3-fcb1-4c70-8dfe-98d8d407acb3" name="Rejected commit: Default" comment="merging my old test classes">
       <change afterPath="$PROJECT_DIR$/JavaStudy/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/Dictionary.java" afterDir="false" />
@@ -109,6 +103,10 @@
       <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
+    <list default="true" id="ebbac887-2ccb-46a9-a4b7-ea1f64fcb950" name="Default" comment="updating with the latest changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/HTTPWebserviceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/HTTPWebserviceTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/QuickFixLearning/target/" />
@@ -128,20 +126,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="SortStack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/stacks/SortStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MatrixSearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/matrix/MatrixSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+            <state relative-caret-position="544">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,47 +138,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MathTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/MathTest.java">
+      <file leaf-file-name="BinarySearchTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="119">
+              <caret line="32" column="25" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResetMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/matrix/ResetMatrix.java">
+      <file leaf-file-name="BSTDistance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/amazon/BSTDistance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="364">
+              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+              <folding>
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+                <element signature="e#848#849#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
+                <element signature="e#925#926#0" expanded="true" />
+                <element signature="e#976#977#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RotateMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/matrix/RotateMatrix.java">
+      <file leaf-file-name="TestTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/TestTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="221">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseStringInPlace.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/string/ReverseStringInPlace.java">
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringRotationTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/string/StringRotationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="170">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,33 +198,44 @@
       <file leaf-file-name="DuplicateArrayElement.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/array/DuplicateArrayElement.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XORTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/bit/XORTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContiguousArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/ContiguousArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaStudy/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="19" selection-start-line="8" selection-start-column="8" selection-end-line="20" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_162/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39253">
-              <caret line="2378" selection-start-line="2378" selection-end-line="2378" />
-              <folding>
-                <element signature="e#88329#88330#0" expanded="true" />
-                <element signature="e#88386#88387#0" expanded="true" />
-                <element signature="e#111781#111782#0" expanded="true" />
-                <element signature="e#177013#177014#0" expanded="true" />
-                <element signature="e#177054#177055#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_162/src.zip!/java/util/Collections.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84082">
-              <caret line="5397" column="30" selection-start-line="5397" selection-start-column="30" selection-end-line="5397" selection-end-column="30" />
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -276,13 +288,20 @@
         <option value="$PROJECT_DIR$/JavaStudy/src/main/java/lamdas/LamdaTest.java" />
         <option value="$PROJECT_DIR$/JavaStudy/src/main/java/lamdas/StreamTest.java" />
         <option value="$PROJECT_DIR$/JavaStudy/pom.xml" />
-        <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/HTTPWebserviceTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/array/DuplicateArrayElement.java" />
         <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/matrix/MatrixSearch.java" />
         <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/MathTest.java" />
         <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/matrix/RotateMatrix.java" />
         <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/string/StringRotationTest.java" />
+        <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/stacks/SetOfStacks.java" />
+        <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/stacks/SortStack.java" />
+        <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/HTTPWebserviceTest.java" />
+        <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/CheckBST.java" />
+        <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/TreeNode.java" />
+        <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/TestTree.java" />
+        <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/amazon/BSTDistance.java" />
+        <option value="$PROJECT_DIR$/JavaStudy/src/main/java/com/home/array/DuplicateArrayElement.java" />
       </list>
     </option>
   </component>
@@ -361,6 +380,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="amazon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -371,18 +400,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-              <item name="stacks" type="462c0819:PsiDirectoryNode" />
+              <item name="bit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -426,7 +444,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringRotationTest">
+  <component name="RunManager" selected="Application.DuplicateArrayElement">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -441,52 +459,100 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MatrixSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.home.matrix.MatrixSearch" />
-      <module name="JavaStudy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.home.matrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ResetMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.home.matrix.ResetMatrix" />
-      <module name="JavaStudy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.home.matrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.home.matrix.RotateMatrix" />
-      <module name="JavaStudy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.home.matrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StringRotationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.home.string.StringRotationTest" />
-      <module name="JavaStudy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.home.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="BSTDistance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.home.amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.home.amazon" />
+      <option name="MAIN_CLASS_NAME" value="com.home.amazon.BSTDistance" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BSTDistance.testGetDistance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.home.amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.home.amazon" />
+      <option name="MAIN_CLASS_NAME" value="com.home.amazon.BSTDistance" />
+      <option name="METHOD_NAME" value="testGetDistance" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.home.collections.treeNgraph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.home.collections.treeNgraph" />
+      <option name="MAIN_CLASS_NAME" value="com.home.collections.treeNgraph.TestTree" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestTree.testLevelOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.home.collections.treeNgraph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.home.collections.treeNgraph" />
+      <option name="MAIN_CLASS_NAME" value="com.home.collections.treeNgraph.TestTree" />
+      <option name="METHOD_NAME" value="testLevelOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -503,16 +569,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="Learning" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -628,6 +684,16 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Learning" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="filePath" />
@@ -656,19 +722,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.MatrixSearch" />
+      <item itemvalue="JUnit.TestTree" />
+      <item itemvalue="JUnit.TestTree.testLevelOrder" />
+      <item itemvalue="JUnit.BSTDistance.testGetDistance" />
+      <item itemvalue="JUnit.BSTDistance" />
       <item itemvalue="Application.DuplicateArrayElement" />
-      <item itemvalue="Application.ResetMatrix" />
-      <item itemvalue="Application.RotateMatrix" />
-      <item itemvalue="Application.StringRotationTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringRotationTest" />
-        <item itemvalue="Application.RotateMatrix" />
-        <item itemvalue="Application.ResetMatrix" />
-        <item itemvalue="Application.MatrixSearch" />
         <item itemvalue="Application.DuplicateArrayElement" />
+        <item itemvalue="JUnit.BSTDistance" />
+        <item itemvalue="JUnit.BSTDistance.testGetDistance" />
+        <item itemvalue="JUnit.TestTree.testLevelOrder" />
+        <item itemvalue="JUnit.TestTree" />
       </list>
     </recent_temporary>
   </component>
@@ -680,69 +746,123 @@
       <option name="presentableId" value="Default" />
       <updated>1502686974850</updated>
     </task>
+    <task id="LOCAL-00001" summary="merging my old test classes">
+      <created>1535007602172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535007602172</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updating with the latest changes">
+      <created>1535007678331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535007678331</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updating with the latest changes">
+      <created>1535010742044</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535010742044</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestTree_testLevelOrder - 2018.08.23 at 17h 45m 11s.xml">
+      <configuration name="TestTree.testLevelOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTree_testLevelOrder - 2018.08.23 at 17h 45m 42s.xml">
+      <configuration name="TestTree.testLevelOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTDistance_testGetDistance - 2018.08.26 at 18h 38m 19s.xml">
+      <configuration name="BSTDistance.testGetDistance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTDistance_testGetDistance - 2018.08.26 at 18h 38m 48s.xml">
+      <configuration name="BSTDistance.testGetDistance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTDistance_testGetDistance - 2018.08.26 at 18h 39m 08s.xml">
+      <configuration name="BSTDistance.testGetDistance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTDistance - 2018.08.27 at 08h 26m 13s.xml">
+      <configuration name="BSTDistance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTDistance - 2018.08.27 at 08h 32m 02s.xml">
+      <configuration name="BSTDistance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTDistance - 2018.08.27 at 08h 34m 42s.xml">
+      <configuration name="BSTDistance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTDistance - 2018.08.27 at 08h 36m 45s.xml">
+      <configuration name="BSTDistance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTDistance - 2018.08.27 at 08h 37m 14s.xml">
+      <configuration name="BSTDistance" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32626426" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37846655" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.54812396" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30332828" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3267776" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49429038" />
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info id="Image Layers" order="2" />
-      <window_info id="Nl-Palette" order="2" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Properties" order="3" />
+      <window_info id="Nl-Palette" order="2" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32626426" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37846655" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37846655" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info anchor="right" id="Properties" order="6" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32626426" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
+      <window_info id="Favorites" order="7" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -750,7 +870,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="merging my old test classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="merging my old test classes" />
+    <MESSAGE value="updating with the latest changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating with the latest changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -761,7 +882,7 @@
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_162/src.zip!/java/util/Arrays.java</url>
+          <url />
           <line>2378</line>
           <properties />
           <option name="timeStamp" value="1" />
@@ -772,8 +893,20 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/stacks/SortStack.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/amazon/BSTDistance.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -782,6 +915,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>stackTo.peek().compareTo(val)&lt;0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>s3</expression-string>
         <language-id>JAVA</language-id>
@@ -810,132 +948,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/graph/BellmanFordAlgorithm/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/graph/BipartiteMatching/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/graph/BreadthFirstSearch/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/graph/cycleDetection/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/graph/DAGShortestPath/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/graph/DepthFirstSearch/DepthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="74" column="15" lean-forward="true" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/graph/DepthFirstSearch/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/graph/DijkstraAlgorithm/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/datastructure/TST/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/datastructure/hashtable/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/datastructure/Heap/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/graph/WebCrawler/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/datastructure/Heap/Heap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/linkedlist/LinkedListUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/multithreading/CopyOfSequenceThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/bit/XORTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/string/MemoryLeak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/home/madhur/graph/KruskalAlgorithm/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -965,20 +977,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties" />
-    <entry file="file://$PROJECT_DIR$/JavaStudy/src/log4j.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaStudy/src/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/resources/log4j.properties" />
     <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/linkedlist/DoublyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1053,20 +1051,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaStudy/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/HTTPWebserviceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
@@ -1092,13 +1076,6 @@
             <element signature="e#177013#177014#0" expanded="true" />
             <element signature="e#177054#177055#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/array/DuplicateArrayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="19" selection-start-line="8" selection-start-column="8" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1142,8 +1119,187 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/string/StringRotationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="289">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/stacks/ExpressionBalanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/stacks/LargestRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/stacks/TowerOfHanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_162/src.zip!/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-894">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/stacks/SetOfStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="62" column="54" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/game/PlayCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_162/jre/lib/rt.jar!/java/lang/Integer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_162/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="135" column="15" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/stacks/SortStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/ContiguousArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/log4j.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/HTTPWebserviceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/CheckBST.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_162/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="351" column="9" selection-start-line="351" selection-start-column="9" selection-end-line="351" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/TestTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/collections/treeNgraph/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/amazon/BSTDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#976#977#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/array/DuplicateArrayElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/main/java/com/home/bit/XORTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
