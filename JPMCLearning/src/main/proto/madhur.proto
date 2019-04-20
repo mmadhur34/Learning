@@ -1,0 +1,40 @@
+syntax = "proto3";
+option java_package = "com.home.madhur.riskbook";
+package routeguide;
+service CentralRiskBook{
+    rpc submitPosition(Position) returns (Order){}
+    rpc submitPositions(stream Position) returns(stream Order){}
+    rpc enableBook(Book) returns (Empty){}
+}
+enum Direction{
+    BUY=0;
+    SELL=1;
+}
+enum OrderTyp{
+    LIMIT=0;
+    MARKET=1;
+}
+enum StrategyTyp{
+    POV=0;
+    VWAP=1;
+    TWAP=2;
+}
+message Empty{}
+message Book{
+    string book=1;
+}
+message Position{
+    string book=1;
+    string ric=2;
+    int32 qty=3;
+    Direction posDir=4;
+}
+message Order{
+    string ric=1;
+    Direction orderDir=2;
+    OrderTyp orderTyp=3;
+    int32 orderQty=4;
+    double orderPrice=5;
+    map<string,string> params=6;
+
+}

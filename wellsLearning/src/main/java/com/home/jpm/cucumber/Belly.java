@@ -1,3 +1,5 @@
+package com.home.jpm.cucumber;
+
 public class Belly {
     private int cukes;
 
