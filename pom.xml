@@ -22,6 +22,10 @@
     </build>
     <modules>
 
+        <module>JavaStudy</module>
+        <module>wellsLearning</module>
+        <module>JPMCLearning</module>
+        <module>HackerEarth</module>
     </modules>
 
 

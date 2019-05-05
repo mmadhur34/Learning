@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HackerEarth/HackerEarth.iml" filepath="$PROJECT_DIR$/HackerEarth/HackerEarth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPMCLearning/JPMCLearning.iml" filepath="$PROJECT_DIR$/JPMCLearning/JPMCLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStudy/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy/JavaStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Learning.iml" filepath="$PROJECT_DIR$/Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wellsLearning/wellsLearning.iml" filepath="$PROJECT_DIR$/wellsLearning/wellsLearning.iml" />
     </modules>
   </component>
 </project>
